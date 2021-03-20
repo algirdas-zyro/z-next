@@ -85,31 +85,56 @@ function Block() {
                     className="block-grid-item use-m-margin grid__item"
                     style={image1Styles}
                 >
-                    <Image src="/images/1.JPG" layout="fill" alt="alt" />
+                    <Image
+                        src="/images/1.JPG"
+                        width={294}
+                        height={196}
+                        alt="alt"
+                    />
                 </div>
                 <div
                     className="block-grid-item use-m-margin grid__item"
                     style={image2Styles}
                 >
-                    <Image src="/images/2.JPG" layout="fill" alt="alt" />
+                    <Image
+                        src="/images/2.JPG"
+                        width={294}
+                        height={196}
+                        alt="alt"
+                    />
                 </div>
                 <div
                     className="block-grid-item use-m-margin grid__item"
                     style={image3Styles}
                 >
-                    <Image src="/images/3.JPG" layout="fill" alt="alt" />
+                    <Image
+                        src="/images/3.JPG"
+                        width={604}
+                        height={402}
+                        alt="alt"
+                    />
                 </div>
                 <div
                     className="block-grid-item use-m-margin grid__item"
                     style={image4Styles}
                 >
-                    <Image src="/images/4.JPG" layout="fill" alt="alt" />
+                    <Image
+                        src="/images/4.JPG"
+                        width={500}
+                        height={334}
+                        alt="alt"
+                    />
                 </div>
                 <div
                     className="block-grid-item use-m-margin grid__item"
                     style={image5Styles}
                 >
-                    <Image src="/images/5.JPG" layout="fill" alt="alt" />
+                    <Image
+                        src="/images/5.JPG"
+                        width={1224}
+                        height={816}
+                        alt="alt"
+                    />
                 </div>
             </div>
         </section>
