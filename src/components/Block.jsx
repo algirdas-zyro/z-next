@@ -109,9 +109,9 @@ function Block() {
                 >
                     <Image
                         src="/images/3.JPG"
-                        width={604}
-                        height={402}
                         alt="alt"
+                        width={500}
+                        height={334}
                     />
                 </div>
                 <div
@@ -120,8 +120,8 @@ function Block() {
                 >
                     <Image
                         src="/images/4.JPG"
-                        width={500}
-                        height={334}
+                        width={604}
+                        height={402}
                         alt="alt"
                     />
                 </div>
