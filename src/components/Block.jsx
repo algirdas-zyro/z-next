@@ -63,12 +63,12 @@ function Block() {
 
     return (
         <section className="block" style={blockStyles}>
-            <div
+            {/* <div
                 className="background"
                 style={{
                     backgroundImage: `url('/images/6.JPG')`,
                 }}
-            />
+            /> */}
             <div className="block-grid">
                 <div
                     className="block-grid-item use-m-margin grid__item"
